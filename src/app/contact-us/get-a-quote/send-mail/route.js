@@ -1,5 +1,5 @@
 // import SendMail from "@/hooks/UseMail"
-// export const runtime = "edge";
+export const runtime = "edge";
 // export async function POST(request) {    
 //     const {from,to,subject,text,html} = await request.json()    
 //     const response = {
