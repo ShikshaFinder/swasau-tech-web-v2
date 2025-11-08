@@ -15,7 +15,7 @@ function Footer({grad}) {
                       </div>
   
                       <p className="mt-6 max-w-md text-center leading-relaxed text-black-500 sm:max-w-xs sm:text-left">
-                      Swasau Technology is an engineering services company specializing in semiconductor and embedded design for Indian and global industries. As an R&D company, we deliver dream solutions for complex electronic projects, offering expertise in System Integration and Electronics Manufacturing.
+                      Swasau Technology Pvt Ltd is an engineering services company specializing in semiconductor and embedded design for Indian and global industries. As an R&D company, we deliver dream solutions for complex electronic projects, offering expertise in System Integration and Electronics Manufacturing.
                       </p>
   
                       {/* <ul className="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
@@ -295,7 +295,7 @@ function Footer({grad}) {
                       </a>
                       </p>
   
-                      <p className="mt-4 text-sm text-black-500 sm:order-first sm:mt-0">&copy; 2023 Swasau Technologies</p>
+                      <p className="mt-4 text-sm text-black-500 sm:order-first sm:mt-0">&copy; 2023 Swasau Technology Pvt Ltd</p>
                   </div>
                   </div>
               </div>
