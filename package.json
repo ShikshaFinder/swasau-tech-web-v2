@@ -2,10 +2,6 @@
   "name": "swasau-tech-web",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=20.16.0",
-    "npm": ">=10.0.0"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,5 +26,9 @@
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
+  },
+  "engines": {
+    "node": "20.17.0",
+    "npm": "10.x"
   }
 }
