@@ -3,6 +3,7 @@ import Image from "next/image"
 import { Suspense } from "react"
 import Markdown from "react-markdown"
 import ServiceSkeleton from "@/skeletons/ServiceSkeleton"
+export const runtime = "edge";
 export default async function Page({ params }) {        
           const query = `query GetTeamMember($id: String!) {
             team(id: $id) {
